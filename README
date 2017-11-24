@@ -11,3 +11,6 @@ kitchen.txt
 links.txt
   Kitchen related links
 
+manifest
+  Manifest for resync application
+
