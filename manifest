@@ -26,3 +26,6 @@ ssh://git@github.com/marcilr/power-pressure-cooker-xl   power-pressure-cooker-xl
 
 # Cuisinart
 ssh://git@github.com/marcilr/cuisinart   cuisinart
+
+# Knives
+ssh://git@github.com/marcilr/knives   knives
